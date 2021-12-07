@@ -1,2 +1,3 @@
-# docsify-template
-docsify-template, 一个基于docsify的静态网站模版
+# project-template-docs-docsify
+
+[youtils-cli](https://github.com/lexmin0412/youtils-cli) 的 docsify 文档项目的文件模版。
